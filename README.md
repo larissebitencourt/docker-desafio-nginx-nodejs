@@ -24,3 +24,12 @@ Suba tudo em um repositório e faça a entrega.
 - Nginx
 
 ✅ **Solução**
+
+Executar o seguinte comando: `docker-compose up`
+
+Após a subida dos containers, acessar: `http://localhost:8080/`
+
+A cada atualização que a página tiver, meu nome será adicionado no banco de dados e apresentará os registros na tela.
+
+<img width="315" alt="result" src="https://github.com/larissebitencourt/docker-desafio-nginx-nodejs/assets/26878743/f00c0677-c41b-411b-9534-9ff233aee4b3">
+
